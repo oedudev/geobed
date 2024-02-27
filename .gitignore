@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+geobed.db
+coverage.out
+cover.sh
